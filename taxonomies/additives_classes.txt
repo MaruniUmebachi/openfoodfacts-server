@@ -128,6 +128,7 @@ ga: Oibreán frithstolptha
 hr: sredstvo protiv zgrudnjavanja, sredstvo protiv zgrušavanja, sredstvo protiv zgrudvavanja, tvar protiv zgrudnjavanja, tvar protiv zgrušavanja, tvar za sprečavanje zgrudnjava, tvar za sprečavanje zgrudnjavanja, tvar za sprječavanje zgrudnjavanja, suha tvar, tvar za sprečavanju zgrudnjavanja
 hu: Csomósodást és lesülést gátló anyag, Csomósodást gátló anyag
 it: Agente antiagglomerante, agenti antiagglomeranti, antiagglomerante, antiagglomeranti
+ja: 固化防止剤
 lt: Lipnumą reguliuojanti medžiaga
 lv: Pretsalipes viela
 mt: Aġent kontra t-tagħqid
