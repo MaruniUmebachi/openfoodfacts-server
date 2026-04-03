@@ -36,19 +36,20 @@ nl: Groenten en fruit
 < en:Fruits and vegetables
 en: Fruits
 fr: Fruits
-ja: 果物
+ja: 果物, くだもの, フルーツ
 nl: Fruit
 
 < en:Fruits and vegetables
 en: Dried fruits
 es: Frutas secas
 fr: Fruits secs
+ja: ドライフルーツ, ドライ・フルーツ, 乾燥フルーツ, 乾燥果物
 nl: Gedroogde vruchten, gedroogd fruit
 
 < en:Fruits and vegetables
 en: Vegetables
 fr: Légumes
-ja: 野菜
+ja: 野菜, やさい
 nl: Groenten
 
 < en:Fruits and vegetables
@@ -62,6 +63,7 @@ nl: Soepen
 en: Dehydrated Soups
 es: Sopas deshidratadas
 fr: Soupes déshydratées
+ja: ドライスープ, ドライ・スープ, 乾燥スープ
 nl: Gedroogde soepen
 
 < en:Fruits and vegetables
@@ -69,6 +71,7 @@ en: Fresh soups
 es: Sopas frescas
 fr: Soupes fraîches
 it: Zuppe fresche
+ja: フレッシュスープ, フレッシュ・スープ, 冷凍スープ
 nl: Verse soepen
 
 en: Cereals and potatoes
